@@ -27,9 +27,9 @@ Usando o conceito do forof uma das formas de repetição com if
 </p>
 
 ---
-<!-- <h1 align='center'>
+<h1 align='center'>
  <img alt='Readme' title='Readme' src='./assets/execucao.gif' />
-</h1> -->
+</h1>
 const numeros = [3, 4, 1, 8, 11, 7, 5];
 
 ---
